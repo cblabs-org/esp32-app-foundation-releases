@@ -2,5 +2,5 @@
 
 Public release repository for OTA firmware binaries and the signed manifest.
 
-Source code: [esp32-app-foundation](https://github.com/matthewmcneill/esp32-app-foundation) (private)
+Source code: [esp32-app-foundation](https://github.com/cblabs-org/esp32-app-foundation)
 
