@@ -1,52 +1,36 @@
 {
   "manifestVersion": 1,
-  "manifestUrl": "https://raw.githubusercontent.com/matthewmcneill/esp32-app-foundation/main/manifest.json",
+  "manifestUrl": "https://raw.githubusercontent.com/cblabs-org/esp32-app-foundation-releases/main/manifest.json",
   "channels": {
-    "stable": {
-      "version": "v0.0.12-dev.9",
-      "securityVersion": 1,
-      "assets": [
-        {
-          "board": "esp32dev",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.9/firmware-esp32dev.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.9/firmware-esp32dev.bin.sig"
-        },
-        {
-          "board": "esp32s3nano",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.9/firmware-esp32s3nano.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.9/firmware-esp32s3nano.bin.sig"
-        }
-      ]
-    },
     "beta": {
-      "version": "v0.0.12-beta.1",
+      "version": "v1.0.0-beta.1",
       "securityVersion": 1,
       "assets": [
         {
           "board": "esp32dev",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation/releases/download/v0.0.12-beta.1/firmware-esp32dev.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation/releases/download/v0.0.12-beta.1/firmware-esp32dev.bin.sig"
+          "firmwareUrl": "https://github.com/cblabs-org/esp32-app-foundation-releases/releases/download/v1.0.0-beta.1/firmware-esp32dev.bin",
+          "signatureUrl": "https://github.com/cblabs-org/esp32-app-foundation-releases/releases/download/v1.0.0-beta.1/firmware-esp32dev.bin.sig"
         },
         {
           "board": "esp32s3nano",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation/releases/download/v0.0.12-beta.1/firmware-esp32s3nano.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation/releases/download/v0.0.12-beta.1/firmware-esp32s3nano.bin.sig"
+          "firmwareUrl": "https://github.com/cblabs-org/esp32-app-foundation-releases/releases/download/v1.0.0-beta.1/firmware-esp32s3nano.bin",
+          "signatureUrl": "https://github.com/cblabs-org/esp32-app-foundation-releases/releases/download/v1.0.0-beta.1/firmware-esp32s3nano.bin.sig"
         }
       ]
     },
     "dev": {
-      "version": "v0.0.12-beta.1",
+      "version": "v1.0.0-beta.1",
       "securityVersion": 1,
       "assets": [
         {
           "board": "esp32dev",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation/releases/download/v0.0.12-beta.1/firmware-esp32dev.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation/releases/download/v0.0.12-beta.1/firmware-esp32dev.bin.sig"
+          "firmwareUrl": "https://github.com/cblabs-org/esp32-app-foundation-releases/releases/download/v1.0.0-beta.1/firmware-esp32dev.bin",
+          "signatureUrl": "https://github.com/cblabs-org/esp32-app-foundation-releases/releases/download/v1.0.0-beta.1/firmware-esp32dev.bin.sig"
         },
         {
           "board": "esp32s3nano",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation/releases/download/v0.0.12-beta.1/firmware-esp32s3nano.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation/releases/download/v0.0.12-beta.1/firmware-esp32s3nano.bin.sig"
+          "firmwareUrl": "https://github.com/cblabs-org/esp32-app-foundation-releases/releases/download/v1.0.0-beta.1/firmware-esp32s3nano.bin",
+          "signatureUrl": "https://github.com/cblabs-org/esp32-app-foundation-releases/releases/download/v1.0.0-beta.1/firmware-esp32s3nano.bin.sig"
         }
       ]
     }
